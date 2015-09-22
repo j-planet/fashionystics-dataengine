@@ -1,0 +1,14 @@
+fit: classic, loose, skinny
+size: small, medium, large
+color: black, blue, grey,indigo, raw, red, sky blue, white
+type: jeans, dresses, sweater
+brand: 7 for all mankind, after 8, armani, citizens of humanity, ck, guess, h&m, karen millen, lanvin, levi, lucky, max mara, oasis, thierry muglar, zara
+fabric: cotton, cotton-silk, denim, plain, polywool, silk, wool
+texture: acid wash, coated, embroidered, foiled, knitted, plain, printed, selvage, stretch
+price: mid, low, high
+occasion: casual, cocktail, day wear, formal, maxi, party, sportswear
+gender: men, women
+geography: city, urban
+race: asian, black, latino
+age: 18-24, 25-35, 36-45, 45-55
+income: entry level, associate, graduate, professional
